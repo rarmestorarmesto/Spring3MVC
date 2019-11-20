@@ -1,2 +1,2 @@
 echo "Chequeando el proyecto : %date% : %time%"
-mvn pwd:pwd chkeckstyle:chkeckstyle
+mvn pmd:pmd chkeckstyle:chkeckstyle
